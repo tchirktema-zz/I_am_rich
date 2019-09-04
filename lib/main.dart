@@ -10,7 +10,7 @@ void main() => runApp(
       ),
       body: Center(
         child: Image(
-            image: NetworkImage('')
+            image: AssetImage('assets/images/diamond.png')
         ),
       ),
     )
